@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/kluz/VpApp/app/build/intermediates/res/merged/debug/anim-v21/design_bottom_sheet_slide_out.xml",
+        "source": "/home/kluz/.android/build-cache/3633b0b96bc5b0059ae58db6e099706bdb951182/output/res/anim-v21/design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "/home/kluz/VpApp/app/build/intermediates/res/merged/debug/anim-v21/design_bottom_sheet_slide_in.xml",
+        "source": "/home/kluz/.android/build-cache/3633b0b96bc5b0059ae58db6e099706bdb951182/output/res/anim-v21/design_bottom_sheet_slide_in.xml"
+    }
+]

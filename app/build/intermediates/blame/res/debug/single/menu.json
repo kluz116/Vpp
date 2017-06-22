@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/home/kluz/VpApp/app/build/intermediates/res/merged/debug/menu/main.xml",
+        "source": "/home/kluz/VpApp/app/src/main/res/menu/main.xml"
+    },
+    {
+        "merged": "/home/kluz/VpApp/app/build/intermediates/res/merged/debug/menu/search_menu.xml",
+        "source": "/home/kluz/VpApp/app/src/main/res/menu/search_menu.xml"
+    },
+    {
+        "merged": "/home/kluz/VpApp/app/build/intermediates/res/merged/debug/menu/app_help.xml",
+        "source": "/home/kluz/VpApp/app/src/main/res/menu/app_help.xml"
+    },
+    {
+        "merged": "/home/kluz/VpApp/app/build/intermediates/res/merged/debug/menu/menu_clients.xml",
+        "source": "/home/kluz/VpApp/app/src/main/res/menu/menu_clients.xml"
+    },
+    {
+        "merged": "/home/kluz/VpApp/app/build/intermediates/res/merged/debug/menu/activity_main_drawer.xml",
+        "source": "/home/kluz/VpApp/app/src/main/res/menu/activity_main_drawer.xml"
+    },
+    {
+        "merged": "/home/kluz/VpApp/app/build/intermediates/res/merged/debug/menu/bottom_menu.xml",
+        "source": "/home/kluz/VpApp/app/src/main/res/menu/bottom_menu.xml"
+    }
+]

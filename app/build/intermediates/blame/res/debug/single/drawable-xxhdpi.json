@@ -1,0 +1,74 @@
+[
+    {
+        "merged": "/home/kluz/VpApp/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_location_on_black.png",
+        "source": "/home/kluz/VpApp/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_location_on_black.png"
+    },
+    {
+        "merged": "/home/kluz/VpApp/app/build/intermediates/res/merged/debug/drawable-xxhdpi/close.png",
+        "source": "/home/kluz/VpApp/app/build/generated/res/pngs/debug/drawable-xxhdpi/close.png"
+    },
+    {
+        "merged": "/home/kluz/VpApp/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_email_black.png",
+        "source": "/home/kluz/VpApp/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_email_black.png"
+    },
+    {
+        "merged": "/home/kluz/VpApp/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_star_black.png",
+        "source": "/home/kluz/VpApp/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_star_black.png"
+    },
+    {
+        "merged": "/home/kluz/VpApp/app/build/intermediates/res/merged/debug/drawable-xxhdpi/search.png",
+        "source": "/home/kluz/VpApp/app/build/generated/res/pngs/debug/drawable-xxhdpi/search.png"
+    },
+    {
+        "merged": "/home/kluz/VpApp/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_phone_black.png",
+        "source": "/home/kluz/VpApp/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_phone_black.png"
+    },
+    {
+        "merged": "/home/kluz/VpApp/app/build/intermediates/res/merged/debug/drawable-xxhdpi/home.png",
+        "source": "/home/kluz/VpApp/app/build/generated/res/pngs/debug/drawable-xxhdpi/home.png"
+    },
+    {
+        "merged": "/home/kluz/VpApp/app/build/intermediates/res/merged/debug/drawable-xxhdpi/calendar_multiple.png",
+        "source": "/home/kluz/VpApp/app/build/generated/res/pngs/debug/drawable-xxhdpi/calendar_multiple.png"
+    },
+    {
+        "merged": "/home/kluz/VpApp/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_arrow.png",
+        "source": "/home/kluz/VpApp/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_arrow.png"
+    },
+    {
+        "merged": "/home/kluz/VpApp/app/build/intermediates/res/merged/debug/drawable-xxhdpi/account_star.png",
+        "source": "/home/kluz/VpApp/app/build/generated/res/pngs/debug/drawable-xxhdpi/account_star.png"
+    },
+    {
+        "merged": "/home/kluz/VpApp/app/build/intermediates/res/merged/debug/drawable-xxhdpi/dots.png",
+        "source": "/home/kluz/VpApp/app/build/generated/res/pngs/debug/drawable-xxhdpi/dots.png"
+    },
+    {
+        "merged": "/home/kluz/VpApp/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_favorite_black.png",
+        "source": "/home/kluz/VpApp/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_favorite_black.png"
+    },
+    {
+        "merged": "/home/kluz/VpApp/app/build/intermediates/res/merged/debug/drawable-xxhdpi/arrow_next.png",
+        "source": "/home/kluz/VpApp/app/build/generated/res/pngs/debug/drawable-xxhdpi/arrow_next.png"
+    },
+    {
+        "merged": "/home/kluz/VpApp/app/build/intermediates/res/merged/debug/drawable-xxhdpi/calendar_check.png",
+        "source": "/home/kluz/VpApp/app/build/generated/res/pngs/debug/drawable-xxhdpi/calendar_check.png"
+    },
+    {
+        "merged": "/home/kluz/VpApp/app/build/intermediates/res/merged/debug/drawable-xxhdpi/user.png",
+        "source": "/home/kluz/VpApp/app/build/generated/res/pngs/debug/drawable-xxhdpi/user.png"
+    },
+    {
+        "merged": "/home/kluz/VpApp/app/build/intermediates/res/merged/debug/drawable-xxhdpi/calendar_multiple_check.png",
+        "source": "/home/kluz/VpApp/app/build/generated/res/pngs/debug/drawable-xxhdpi/calendar_multiple_check.png"
+    },
+    {
+        "merged": "/home/kluz/VpApp/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_favorite_border_black.png",
+        "source": "/home/kluz/VpApp/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_favorite_border_black.png"
+    },
+    {
+        "merged": "/home/kluz/VpApp/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_menu_search.png",
+        "source": "/home/kluz/VpApp/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_menu_search.png"
+    }
+]

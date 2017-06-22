@@ -1,0 +1,74 @@
+[
+    {
+        "merged": "/home/kluz/VpApp/app/build/intermediates/res/merged/debug/drawable-ldpi/ic_email_black.png",
+        "source": "/home/kluz/VpApp/app/build/generated/res/pngs/debug/drawable-ldpi/ic_email_black.png"
+    },
+    {
+        "merged": "/home/kluz/VpApp/app/build/intermediates/res/merged/debug/drawable-ldpi/ic_menu_search.png",
+        "source": "/home/kluz/VpApp/app/build/generated/res/pngs/debug/drawable-ldpi/ic_menu_search.png"
+    },
+    {
+        "merged": "/home/kluz/VpApp/app/build/intermediates/res/merged/debug/drawable-ldpi/ic_phone_black.png",
+        "source": "/home/kluz/VpApp/app/build/generated/res/pngs/debug/drawable-ldpi/ic_phone_black.png"
+    },
+    {
+        "merged": "/home/kluz/VpApp/app/build/intermediates/res/merged/debug/drawable-ldpi/ic_arrow.png",
+        "source": "/home/kluz/VpApp/app/build/generated/res/pngs/debug/drawable-ldpi/ic_arrow.png"
+    },
+    {
+        "merged": "/home/kluz/VpApp/app/build/intermediates/res/merged/debug/drawable-ldpi/ic_favorite_border_black.png",
+        "source": "/home/kluz/VpApp/app/build/generated/res/pngs/debug/drawable-ldpi/ic_favorite_border_black.png"
+    },
+    {
+        "merged": "/home/kluz/VpApp/app/build/intermediates/res/merged/debug/drawable-ldpi/arrow_next.png",
+        "source": "/home/kluz/VpApp/app/build/generated/res/pngs/debug/drawable-ldpi/arrow_next.png"
+    },
+    {
+        "merged": "/home/kluz/VpApp/app/build/intermediates/res/merged/debug/drawable-ldpi/search.png",
+        "source": "/home/kluz/VpApp/app/build/generated/res/pngs/debug/drawable-ldpi/search.png"
+    },
+    {
+        "merged": "/home/kluz/VpApp/app/build/intermediates/res/merged/debug/drawable-ldpi/calendar_check.png",
+        "source": "/home/kluz/VpApp/app/build/generated/res/pngs/debug/drawable-ldpi/calendar_check.png"
+    },
+    {
+        "merged": "/home/kluz/VpApp/app/build/intermediates/res/merged/debug/drawable-ldpi/ic_favorite_black.png",
+        "source": "/home/kluz/VpApp/app/build/generated/res/pngs/debug/drawable-ldpi/ic_favorite_black.png"
+    },
+    {
+        "merged": "/home/kluz/VpApp/app/build/intermediates/res/merged/debug/drawable-ldpi/calendar_multiple_check.png",
+        "source": "/home/kluz/VpApp/app/build/generated/res/pngs/debug/drawable-ldpi/calendar_multiple_check.png"
+    },
+    {
+        "merged": "/home/kluz/VpApp/app/build/intermediates/res/merged/debug/drawable-ldpi/user.png",
+        "source": "/home/kluz/VpApp/app/build/generated/res/pngs/debug/drawable-ldpi/user.png"
+    },
+    {
+        "merged": "/home/kluz/VpApp/app/build/intermediates/res/merged/debug/drawable-ldpi/close.png",
+        "source": "/home/kluz/VpApp/app/build/generated/res/pngs/debug/drawable-ldpi/close.png"
+    },
+    {
+        "merged": "/home/kluz/VpApp/app/build/intermediates/res/merged/debug/drawable-ldpi/ic_star_black.png",
+        "source": "/home/kluz/VpApp/app/build/generated/res/pngs/debug/drawable-ldpi/ic_star_black.png"
+    },
+    {
+        "merged": "/home/kluz/VpApp/app/build/intermediates/res/merged/debug/drawable-ldpi/home.png",
+        "source": "/home/kluz/VpApp/app/build/generated/res/pngs/debug/drawable-ldpi/home.png"
+    },
+    {
+        "merged": "/home/kluz/VpApp/app/build/intermediates/res/merged/debug/drawable-ldpi/ic_location_on_black.png",
+        "source": "/home/kluz/VpApp/app/build/generated/res/pngs/debug/drawable-ldpi/ic_location_on_black.png"
+    },
+    {
+        "merged": "/home/kluz/VpApp/app/build/intermediates/res/merged/debug/drawable-ldpi/dots.png",
+        "source": "/home/kluz/VpApp/app/build/generated/res/pngs/debug/drawable-ldpi/dots.png"
+    },
+    {
+        "merged": "/home/kluz/VpApp/app/build/intermediates/res/merged/debug/drawable-ldpi/calendar_multiple.png",
+        "source": "/home/kluz/VpApp/app/build/generated/res/pngs/debug/drawable-ldpi/calendar_multiple.png"
+    },
+    {
+        "merged": "/home/kluz/VpApp/app/build/intermediates/res/merged/debug/drawable-ldpi/account_star.png",
+        "source": "/home/kluz/VpApp/app/build/generated/res/pngs/debug/drawable-ldpi/account_star.png"
+    }
+]

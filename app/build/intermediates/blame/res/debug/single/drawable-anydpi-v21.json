@@ -1,0 +1,82 @@
+[
+    {
+        "merged": "/home/kluz/VpApp/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/ic_favorite_black.xml",
+        "source": "/home/kluz/VpApp/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_favorite_black.xml"
+    },
+    {
+        "merged": "/home/kluz/VpApp/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/ic_arrow.xml",
+        "source": "/home/kluz/VpApp/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_arrow.xml"
+    },
+    {
+        "merged": "/home/kluz/VpApp/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/ic_phone_black.xml",
+        "source": "/home/kluz/VpApp/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_phone_black.xml"
+    },
+    {
+        "merged": "/home/kluz/VpApp/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/design_ic_visibility_off.xml",
+        "source": "/home/kluz/.android/build-cache/3633b0b96bc5b0059ae58db6e099706bdb951182/output/res/drawable-anydpi-v21/design_ic_visibility_off.xml"
+    },
+    {
+        "merged": "/home/kluz/VpApp/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/design_ic_visibility.xml",
+        "source": "/home/kluz/.android/build-cache/3633b0b96bc5b0059ae58db6e099706bdb951182/output/res/drawable-anydpi-v21/design_ic_visibility.xml"
+    },
+    {
+        "merged": "/home/kluz/VpApp/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/ic_email_black.xml",
+        "source": "/home/kluz/VpApp/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_email_black.xml"
+    },
+    {
+        "merged": "/home/kluz/VpApp/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/home.xml",
+        "source": "/home/kluz/VpApp/app/build/generated/res/pngs/debug/drawable-anydpi-v21/home.xml"
+    },
+    {
+        "merged": "/home/kluz/VpApp/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/ic_location_on_black.xml",
+        "source": "/home/kluz/VpApp/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_location_on_black.xml"
+    },
+    {
+        "merged": "/home/kluz/VpApp/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/search.xml",
+        "source": "/home/kluz/VpApp/app/build/generated/res/pngs/debug/drawable-anydpi-v21/search.xml"
+    },
+    {
+        "merged": "/home/kluz/VpApp/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/close.xml",
+        "source": "/home/kluz/VpApp/app/build/generated/res/pngs/debug/drawable-anydpi-v21/close.xml"
+    },
+    {
+        "merged": "/home/kluz/VpApp/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/user.xml",
+        "source": "/home/kluz/VpApp/app/build/generated/res/pngs/debug/drawable-anydpi-v21/user.xml"
+    },
+    {
+        "merged": "/home/kluz/VpApp/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/calendar_multiple_check.xml",
+        "source": "/home/kluz/VpApp/app/build/generated/res/pngs/debug/drawable-anydpi-v21/calendar_multiple_check.xml"
+    },
+    {
+        "merged": "/home/kluz/VpApp/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/calendar_check.xml",
+        "source": "/home/kluz/VpApp/app/build/generated/res/pngs/debug/drawable-anydpi-v21/calendar_check.xml"
+    },
+    {
+        "merged": "/home/kluz/VpApp/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/account_star.xml",
+        "source": "/home/kluz/VpApp/app/build/generated/res/pngs/debug/drawable-anydpi-v21/account_star.xml"
+    },
+    {
+        "merged": "/home/kluz/VpApp/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/dots.xml",
+        "source": "/home/kluz/VpApp/app/build/generated/res/pngs/debug/drawable-anydpi-v21/dots.xml"
+    },
+    {
+        "merged": "/home/kluz/VpApp/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/ic_star_black.xml",
+        "source": "/home/kluz/VpApp/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_star_black.xml"
+    },
+    {
+        "merged": "/home/kluz/VpApp/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/calendar_multiple.xml",
+        "source": "/home/kluz/VpApp/app/build/generated/res/pngs/debug/drawable-anydpi-v21/calendar_multiple.xml"
+    },
+    {
+        "merged": "/home/kluz/VpApp/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/arrow_next.xml",
+        "source": "/home/kluz/VpApp/app/build/generated/res/pngs/debug/drawable-anydpi-v21/arrow_next.xml"
+    },
+    {
+        "merged": "/home/kluz/VpApp/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/ic_favorite_border_black.xml",
+        "source": "/home/kluz/VpApp/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_favorite_border_black.xml"
+    },
+    {
+        "merged": "/home/kluz/VpApp/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/ic_menu_search.xml",
+        "source": "/home/kluz/VpApp/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_menu_search.xml"
+    }
+]

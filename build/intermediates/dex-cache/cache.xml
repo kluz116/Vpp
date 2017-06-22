@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/kluz/.android/build-cache/444f9b8cafb2b4e57d4de51b1318a01749eea832/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7e92aadd0697922316d1395c1887a23aebec640a">
+        <dex dex="/home/kluz/VpApp/app/build/intermediates/pre-dexed/debug/classes_bd71de6d482a03b90afc18a7c4cfd15ec8d55e7d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/kluz/.android/build-cache/2d8e49c6cc199cb99ece9028e8882657b3c86552/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9ff04cc3470178a44512624036751a803418c2ca">
+        <dex dex="/home/kluz/VpApp/app/build/intermediates/pre-dexed/debug/classes_dddba7fcdf4e35341b2dad5f50ca619e02180027.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/kluz/.android/build-cache/ae773c8235921de4844509101582d193deb00f09/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6b6f292b8b951dcf2ecf2b20853e3eabc7d65c48">
+        <dex dex="/home/kluz/VpApp/app/build/intermediates/pre-dexed/debug/classes_f2eccbe42c1deb47861c59a7067cb7c0149cfdd8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/kluz/.android/build-cache/e8aa53abd2049afd12e15f00dc6ab3b3df0bca3e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9f6d236bac26d02b410e4ee186ba517ace5ee661">
+        <dex dex="/home/kluz/VpApp/app/build/intermediates/pre-dexed/debug/classes_0fdc4986749c4f87f08788e69604513df46ff17c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/kluz/.android/build-cache/971cf2d5f25fd2bdc2a0d8e3ed70c6bbbcd95d54/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e3234cd25e23069abd48ecd2117bc0e8011bf45a">
+        <dex dex="/home/kluz/VpApp/app/build/intermediates/pre-dexed/debug/classes_c32984ed30cb14dc6df9e27a2bd784a5bf8ca187.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/kluz/.android/build-cache/910d988bd7ed53275b6d055612a2a2640c47e1bb/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="190a642ba16d1421296a4d794606279b80039c59">
+        <dex dex="/home/kluz/VpApp/app/build/intermediates/pre-dexed/debug/classes_ed710bf27d0f3e833bf02636c612ce013d7b4d99.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/kluz/.android/build-cache/c7f2e0959d774a24cd8d053900bdc346370eb851/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c61641e333fa88da21758bab8cc28ee16604b05f">
+        <dex dex="/home/kluz/VpApp/app/build/intermediates/pre-dexed/debug/classes_9b6c0d2199ac5d5b09040ff38eb888c72df95410.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/kluz/.android/build-cache/2644514c1f0715186c2c750ee070fe0a6bd5f779/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bf2e1838e4428616c1aa26edf43de72b5b99bf84">
+        <dex dex="/home/kluz/VpApp/app/build/intermediates/pre-dexed/debug/classes_49522c1ce23560f0f813d0e23cccb733e0d43b48.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/kluz/.android/build-cache/24e8a1ac16f800b5545b9b79b8617714176c5cc2/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5ffe8867f51cfc726e9fb21db1e5b6962ebf25a0">
+        <dex dex="/home/kluz/VpApp/app/build/intermediates/pre-dexed/debug/classes_affaed7721bdc94a53c6428c45b16b86432bf92f.jar" />
+    </item>
+
+</items>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/statistics"
+        android:orderInCategory="100"
+        android:icon="@drawable/account_star"
+        android:title="Payment Statistics"
+        app:showAsAction="always" />
+
+    <item
+        android:id="@+id/overdue_call"
+        android:orderInCategory="100"
+        android:icon="@drawable/ic_phone_black"
+        android:title="overdue Call"
+        app:showAsAction="ifRoom" />
+
+    <item
+        android:id="@+id/logs"
+        android:orderInCategory="100"
+        android:icon="@drawable/arrow_next"
+        android:title="@string/action_settings"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/close"
+        android:orderInCategory="100"
+        android:icon="@drawable/close"
+        android:title="@string/close"
+        app:showAsAction="ifRoom" />
+
+</menu>

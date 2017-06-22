@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#ffb74d</color>
+    <color name="colorPrimaryDark">#ffd180</color>
+    <color name="colorAccent">#fbc02d</color>
+    <color name="phone">#ffb74d</color>
+    <color name="white">#ffffff</color>
+    <color name ="login_button_background">#ffb74d</color>
+    <color name ="bg_login">#FAF9F7</color>
+    <color name="bg_main">#428bca</color>
+    <color name="input_login">#222222</color>
+    <color name="input_login_hint">#999999</color>
+    <color name="btn_login">#26ae90</color>
+    <color name="btn_login_bg">#eceef1</color>
+    <color name="lbl_name">#333333</color>
+    <color name="btn_logut_bg">#ff6861</color>
+    <color name="text">#000000</color>
+    <color name="album_title">#4c4c4c</color>
+    <color name="red">#ff0749</color>
+
+
+</resources>

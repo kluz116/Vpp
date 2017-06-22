@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "658227927831",
+    "firebase_url": "https://villagepowersalesapp.firebaseio.com",
+    "project_id": "villagepowersalesapp",
+    "storage_bucket": "villagepowersalesapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:658227927831:android:3e28d15cded13702",
+        "android_client_info": {
+          "package_name": "com.kluz.vp6.vp1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "658227927831-r92dusk3gbu48mremi14d8it7gbc9lbb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDARrCC2wP-5tiHrIHdaDZ86evzn84dQW0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

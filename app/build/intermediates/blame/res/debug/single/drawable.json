@@ -1,0 +1,282 @@
+[
+    {
+        "merged": "/home/kluz/VpApp/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_light.xml",
+        "source": "/home/kluz/.android/build-cache/6ff98557a4369936ea16bb0d44e5c906e72e322d/output/res/drawable/abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "/home/kluz/VpApp/app/build/intermediates/res/merged/debug/drawable/ln_logo.png",
+        "source": "/home/kluz/VpApp/app/src/main/res/drawable/ln_logo.png"
+    },
+    {
+        "merged": "/home/kluz/VpApp/app/build/intermediates/res/merged/debug/drawable/abc_seekbar_thumb_material.xml",
+        "source": "/home/kluz/.android/build-cache/6ff98557a4369936ea16bb0d44e5c906e72e322d/output/res/drawable/abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "/home/kluz/VpApp/app/build/intermediates/res/merged/debug/drawable/profiles.png",
+        "source": "/home/kluz/VpApp/app/src/main/res/drawable/profiles.png"
+    },
+    {
+        "merged": "/home/kluz/VpApp/app/build/intermediates/res/merged/debug/drawable/abc_cab_background_internal_bg.xml",
+        "source": "/home/kluz/.android/build-cache/6ff98557a4369936ea16bb0d44e5c906e72e322d/output/res/drawable/abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "/home/kluz/VpApp/app/build/intermediates/res/merged/debug/drawable/design_snackbar_background.xml",
+        "source": "/home/kluz/.android/build-cache/3633b0b96bc5b0059ae58db6e099706bdb951182/output/res/drawable/design_snackbar_background.xml"
+    },
+    {
+        "merged": "/home/kluz/VpApp/app/build/intermediates/res/merged/debug/drawable/abc_btn_borderless_material.xml",
+        "source": "/home/kluz/.android/build-cache/6ff98557a4369936ea16bb0d44e5c906e72e322d/output/res/drawable/abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "/home/kluz/VpApp/app/build/intermediates/res/merged/debug/drawable/notification_icon_background.xml",
+        "source": "/home/kluz/.android/build-cache/6ff98557a4369936ea16bb0d44e5c906e72e322d/output/res/drawable/notification_icon_background.xml"
+    },
+    {
+        "merged": "/home/kluz/VpApp/app/build/intermediates/res/merged/debug/drawable/notification_bg.xml",
+        "source": "/home/kluz/.android/build-cache/6ff98557a4369936ea16bb0d44e5c906e72e322d/output/res/drawable/notification_bg.xml"
+    },
+    {
+        "merged": "/home/kluz/VpApp/app/build/intermediates/res/merged/debug/drawable/design_password_eye.xml",
+        "source": "/home/kluz/.android/build-cache/3633b0b96bc5b0059ae58db6e099706bdb951182/output/res/drawable/design_password_eye.xml"
+    },
+    {
+        "merged": "/home/kluz/VpApp/app/build/intermediates/res/merged/debug/drawable/abc_cab_background_top_material.xml",
+        "source": "/home/kluz/.android/build-cache/6ff98557a4369936ea16bb0d44e5c906e72e322d/output/res/drawable/abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "/home/kluz/VpApp/app/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_dark.xml",
+        "source": "/home/kluz/.android/build-cache/6ff98557a4369936ea16bb0d44e5c906e72e322d/output/res/drawable/abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "/home/kluz/VpApp/app/build/intermediates/res/merged/debug/drawable/abc_spinner_textfield_background_material.xml",
+        "source": "/home/kluz/.android/build-cache/6ff98557a4369936ea16bb0d44e5c906e72e322d/output/res/drawable/abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "/home/kluz/VpApp/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_material.xml",
+        "source": "/home/kluz/.android/build-cache/6ff98557a4369936ea16bb0d44e5c906e72e322d/output/res/drawable/abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "/home/kluz/VpApp/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_small_material.xml",
+        "source": "/home/kluz/.android/build-cache/6ff98557a4369936ea16bb0d44e5c906e72e322d/output/res/drawable/abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "/home/kluz/VpApp/app/build/intermediates/res/merged/debug/drawable/abc_ic_clear_material.xml",
+        "source": "/home/kluz/.android/build-cache/6ff98557a4369936ea16bb0d44e5c906e72e322d/output/res/drawable/abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "/home/kluz/VpApp/app/build/intermediates/res/merged/debug/drawable/abc_switch_thumb_material.xml",
+        "source": "/home/kluz/.android/build-cache/6ff98557a4369936ea16bb0d44e5c906e72e322d/output/res/drawable/abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "/home/kluz/VpApp/app/build/intermediates/res/merged/debug/drawable/abc_text_cursor_material.xml",
+        "source": "/home/kluz/.android/build-cache/6ff98557a4369936ea16bb0d44e5c906e72e322d/output/res/drawable/abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "/home/kluz/VpApp/app/build/intermediates/res/merged/debug/drawable/abc_seekbar_tick_mark_material.xml",
+        "source": "/home/kluz/.android/build-cache/6ff98557a4369936ea16bb0d44e5c906e72e322d/output/res/drawable/abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "/home/kluz/VpApp/app/build/intermediates/res/merged/debug/drawable/ahagzjsozh.png",
+        "source": "/home/kluz/VpApp/app/src/main/res/drawable/ahagzjsozh.png"
+    },
+    {
+        "merged": "/home/kluz/VpApp/app/build/intermediates/res/merged/debug/drawable/circleds.png",
+        "source": "/home/kluz/VpApp/app/src/main/res/drawable/circleds.png"
+    },
+    {
+        "merged": "/home/kluz/VpApp/app/build/intermediates/res/merged/debug/drawable/ic_person_outline_black_48dp_2x.png",
+        "source": "/home/kluz/VpApp/app/src/main/res/drawable/ic_person_outline_black_48dp_2x.png"
+    },
+    {
+        "merged": "/home/kluz/VpApp/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_icon_dark_focused.xml",
+        "source": "/home/kluz/.android/build-cache/444f9b8cafb2b4e57d4de51b1318a01749eea832/output/res/drawable/common_google_signin_btn_icon_dark_focused.xml"
+    },
+    {
+        "merged": "/home/kluz/VpApp/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_indicator_material.xml",
+        "source": "/home/kluz/.android/build-cache/6ff98557a4369936ea16bb0d44e5c906e72e322d/output/res/drawable/abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "/home/kluz/VpApp/app/build/intermediates/res/merged/debug/drawable/notification_bg_low.xml",
+        "source": "/home/kluz/.android/build-cache/6ff98557a4369936ea16bb0d44e5c906e72e322d/output/res/drawable/notification_bg_low.xml"
+    },
+    {
+        "merged": "/home/kluz/VpApp/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_text_light.xml",
+        "source": "/home/kluz/.android/build-cache/444f9b8cafb2b4e57d4de51b1318a01749eea832/output/res/drawable/common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "/home/kluz/VpApp/app/build/intermediates/res/merged/debug/drawable/abc_ic_search_api_material.xml",
+        "source": "/home/kluz/.android/build-cache/6ff98557a4369936ea16bb0d44e5c906e72e322d/output/res/drawable/abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "/home/kluz/VpApp/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_icon_light_focused.xml",
+        "source": "/home/kluz/.android/build-cache/444f9b8cafb2b4e57d4de51b1318a01749eea832/output/res/drawable/common_google_signin_btn_icon_light_focused.xml"
+    },
+    {
+        "merged": "/home/kluz/VpApp/app/build/intermediates/res/merged/debug/drawable/ic_dots.png",
+        "source": "/home/kluz/VpApp/app/src/main/res/drawable/ic_dots.png"
+    },
+    {
+        "merged": "/home/kluz/VpApp/app/build/intermediates/res/merged/debug/drawable/abc_btn_radio_material.xml",
+        "source": "/home/kluz/.android/build-cache/6ff98557a4369936ea16bb0d44e5c906e72e322d/output/res/drawable/abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "/home/kluz/VpApp/app/build/intermediates/res/merged/debug/drawable/design_fab_background.xml",
+        "source": "/home/kluz/.android/build-cache/3633b0b96bc5b0059ae58db6e099706bdb951182/output/res/drawable/design_fab_background.xml"
+    },
+    {
+        "merged": "/home/kluz/VpApp/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_dark.xml",
+        "source": "/home/kluz/.android/build-cache/6ff98557a4369936ea16bb0d44e5c906e72e322d/output/res/drawable/abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "/home/kluz/VpApp/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_light.xml",
+        "source": "/home/kluz/.android/build-cache/6ff98557a4369936ea16bb0d44e5c906e72e322d/output/res/drawable/abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "/home/kluz/VpApp/app/build/intermediates/res/merged/debug/drawable/use.png",
+        "source": "/home/kluz/VpApp/app/src/main/res/drawable/use.png"
+    },
+    {
+        "merged": "/home/kluz/VpApp/app/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_light.xml",
+        "source": "/home/kluz/.android/build-cache/6ff98557a4369936ea16bb0d44e5c906e72e322d/output/res/drawable/abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "/home/kluz/VpApp/app/build/intermediates/res/merged/debug/drawable/toggle_selector.xml",
+        "source": "/home/kluz/VpApp/app/src/main/res/drawable/toggle_selector.xml"
+    },
+    {
+        "merged": "/home/kluz/VpApp/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_dark.xml",
+        "source": "/home/kluz/.android/build-cache/6ff98557a4369936ea16bb0d44e5c906e72e322d/output/res/drawable/abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "/home/kluz/VpApp/app/build/intermediates/res/merged/debug/drawable/abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "/home/kluz/.android/build-cache/6ff98557a4369936ea16bb0d44e5c906e72e322d/output/res/drawable/abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "/home/kluz/VpApp/app/build/intermediates/res/merged/debug/drawable/circled.png",
+        "source": "/home/kluz/VpApp/app/src/main/res/drawable/circled.png"
+    },
+    {
+        "merged": "/home/kluz/VpApp/app/build/intermediates/res/merged/debug/drawable/abc_btn_colored_material.xml",
+        "source": "/home/kluz/.android/build-cache/6ff98557a4369936ea16bb0d44e5c906e72e322d/output/res/drawable/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/home/kluz/VpApp/app/build/intermediates/res/merged/debug/drawable/design_bottom_navigation_item_background.xml",
+        "source": "/home/kluz/.android/build-cache/3633b0b96bc5b0059ae58db6e099706bdb951182/output/res/drawable/design_bottom_navigation_item_background.xml"
+    },
+    {
+        "merged": "/home/kluz/VpApp/app/build/intermediates/res/merged/debug/drawable/pat.png",
+        "source": "/home/kluz/VpApp/app/src/main/res/drawable/pat.png"
+    },
+    {
+        "merged": "/home/kluz/VpApp/app/build/intermediates/res/merged/debug/drawable/logo.png",
+        "source": "/home/kluz/VpApp/app/src/main/res/drawable/logo.png"
+    },
+    {
+        "merged": "/home/kluz/VpApp/app/build/intermediates/res/merged/debug/drawable/notification_tile_bg.xml",
+        "source": "/home/kluz/.android/build-cache/6ff98557a4369936ea16bb0d44e5c906e72e322d/output/res/drawable/notification_tile_bg.xml"
+    },
+    {
+        "merged": "/home/kluz/VpApp/app/build/intermediates/res/merged/debug/drawable/favicon.png",
+        "source": "/home/kluz/VpApp/app/src/main/res/drawable/favicon.png"
+    },
+    {
+        "merged": "/home/kluz/VpApp/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_icon_light.xml",
+        "source": "/home/kluz/.android/build-cache/444f9b8cafb2b4e57d4de51b1318a01749eea832/output/res/drawable/common_google_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "/home/kluz/VpApp/app/build/intermediates/res/merged/debug/drawable/abc_seekbar_track_material.xml",
+        "source": "/home/kluz/.android/build-cache/6ff98557a4369936ea16bb0d44e5c906e72e322d/output/res/drawable/abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "/home/kluz/VpApp/app/build/intermediates/res/merged/debug/drawable/abc_tab_indicator_material.xml",
+        "source": "/home/kluz/.android/build-cache/6ff98557a4369936ea16bb0d44e5c906e72e322d/output/res/drawable/abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "/home/kluz/VpApp/app/build/intermediates/res/merged/debug/drawable/abc_vector_test.xml",
+        "source": "/home/kluz/.android/build-cache/6ff98557a4369936ea16bb0d44e5c906e72e322d/output/res/drawable/abc_vector_test.xml"
+    },
+    {
+        "merged": "/home/kluz/VpApp/app/build/intermediates/res/merged/debug/drawable/images.jpg",
+        "source": "/home/kluz/VpApp/app/src/main/res/drawable/images.jpg"
+    },
+    {
+        "merged": "/home/kluz/VpApp/app/build/intermediates/res/merged/debug/drawable/app_user.png",
+        "source": "/home/kluz/VpApp/app/src/main/res/drawable/app_user.png"
+    },
+    {
+        "merged": "/home/kluz/VpApp/app/build/intermediates/res/merged/debug/drawable/abc_ic_voice_search_api_material.xml",
+        "source": "/home/kluz/.android/build-cache/6ff98557a4369936ea16bb0d44e5c906e72e322d/output/res/drawable/abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "/home/kluz/VpApp/app/build/intermediates/res/merged/debug/drawable/userone.png",
+        "source": "/home/kluz/VpApp/app/src/main/res/drawable/userone.png"
+    },
+    {
+        "merged": "/home/kluz/VpApp/app/build/intermediates/res/merged/debug/drawable/pattern.jpg",
+        "source": "/home/kluz/VpApp/app/src/main/res/drawable/pattern.jpg"
+    },
+    {
+        "merged": "/home/kluz/VpApp/app/build/intermediates/res/merged/debug/drawable/abc_ic_go_search_api_material.xml",
+        "source": "/home/kluz/.android/build-cache/6ff98557a4369936ea16bb0d44e5c906e72e322d/output/res/drawable/abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "/home/kluz/VpApp/app/build/intermediates/res/merged/debug/drawable/profile.png",
+        "source": "/home/kluz/VpApp/app/src/main/res/drawable/profile.png"
+    },
+    {
+        "merged": "/home/kluz/VpApp/app/build/intermediates/res/merged/debug/drawable/pattern_one.png",
+        "source": "/home/kluz/VpApp/app/src/main/res/drawable/pattern_one.png"
+    },
+    {
+        "merged": "/home/kluz/VpApp/app/build/intermediates/res/merged/debug/drawable/abc_textfield_search_material.xml",
+        "source": "/home/kluz/.android/build-cache/6ff98557a4369936ea16bb0d44e5c906e72e322d/output/res/drawable/abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "/home/kluz/VpApp/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_text_light_focused.xml",
+        "source": "/home/kluz/.android/build-cache/444f9b8cafb2b4e57d4de51b1318a01749eea832/output/res/drawable/common_google_signin_btn_text_light_focused.xml"
+    },
+    {
+        "merged": "/home/kluz/VpApp/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_text_dark.xml",
+        "source": "/home/kluz/.android/build-cache/444f9b8cafb2b4e57d4de51b1318a01749eea832/output/res/drawable/common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "/home/kluz/VpApp/app/build/intermediates/res/merged/debug/drawable/abc_ic_ab_back_material.xml",
+        "source": "/home/kluz/.android/build-cache/6ff98557a4369936ea16bb0d44e5c906e72e322d/output/res/drawable/abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "/home/kluz/VpApp/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_icon_dark.xml",
+        "source": "/home/kluz/.android/build-cache/444f9b8cafb2b4e57d4de51b1318a01749eea832/output/res/drawable/common_google_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "/home/kluz/VpApp/app/build/intermediates/res/merged/debug/drawable/abc_edit_text_material.xml",
+        "source": "/home/kluz/.android/build-cache/6ff98557a4369936ea16bb0d44e5c906e72e322d/output/res/drawable/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/home/kluz/VpApp/app/build/intermediates/res/merged/debug/drawable/navigation_empty_icon.xml",
+        "source": "/home/kluz/.android/build-cache/3633b0b96bc5b0059ae58db6e099706bdb951182/output/res/drawable/navigation_empty_icon.xml"
+    },
+    {
+        "merged": "/home/kluz/VpApp/app/build/intermediates/res/merged/debug/drawable/abc_ic_menu_overflow_material.xml",
+        "source": "/home/kluz/.android/build-cache/6ff98557a4369936ea16bb0d44e5c906e72e322d/output/res/drawable/abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "/home/kluz/VpApp/app/build/intermediates/res/merged/debug/drawable/abc_btn_default_mtrl_shape.xml",
+        "source": "/home/kluz/.android/build-cache/6ff98557a4369936ea16bb0d44e5c906e72e322d/output/res/drawable/abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "/home/kluz/VpApp/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_text_dark_focused.xml",
+        "source": "/home/kluz/.android/build-cache/444f9b8cafb2b4e57d4de51b1318a01749eea832/output/res/drawable/common_google_signin_btn_text_dark_focused.xml"
+    },
+    {
+        "merged": "/home/kluz/VpApp/app/build/intermediates/res/merged/debug/drawable/abc_btn_check_material.xml",
+        "source": "/home/kluz/.android/build-cache/6ff98557a4369936ea16bb0d44e5c906e72e322d/output/res/drawable/abc_btn_check_material.xml"
+    },
+    {
+        "merged": "/home/kluz/VpApp/app/build/intermediates/res/merged/debug/drawable/abc_dialog_material_background.xml",
+        "source": "/home/kluz/.android/build-cache/6ff98557a4369936ea16bb0d44e5c906e72e322d/output/res/drawable/abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "/home/kluz/VpApp/app/build/intermediates/res/merged/debug/drawable/side_nav_bar.xml",
+        "source": "/home/kluz/VpApp/app/src/main/res/drawable/side_nav_bar.xml"
+    }
+]
